@@ -29,8 +29,7 @@ This project demonstrates SQL techniques used by analysts to explore, clean, and
 1. **Orders Volume Analysis:**
   - Total unique orders, orders by month, day-of-week analysis, repeat customers, average orders per customer, cumulative order trend.
 
-2. Total Revenue from Pizza Sales:
-- Calculate total revenue from all pizza sales.
+**2. Total Revenue from Pizza Sales: **Calculate total revenue from all pizza sales.
 
 3. Highest-Priced Pizza:
 - Identify the most expensive pizza on the menu.
