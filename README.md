@@ -25,14 +25,17 @@ This project demonstrates SQL techniques used by analysts to explore, clean, and
 
 <h3> Analysis & Queries </h3>
 
-1. Orders Volume Analysis
-Total unique orders, orders by month, day-of-week analysis, repeat customers, average orders per customer, cumulative order trend.
-2. Total Revenue from Pizza Sales
-Calculate total revenue from all pizza sales.
-3. Highest-Priced Pizza
-Identify the most expensive pizza on the menu.
-4. Most Common Pizza Size Ordered
-Determine the most frequently ordered pizza size.
+1. Orders Volume Analysis:
+- Total unique orders, orders by month, day-of-week analysis, repeat customers, average orders per customer, cumulative order trend.
+
+2. Total Revenue from Pizza Sales:
+- Calculate total revenue from all pizza sales.
+
+3. Highest-Priced Pizza:
+- Identify the most expensive pizza on the menu.
+
+4. Most Common Pizza Size Ordered:
+- Determine the most frequently ordered pizza size.
 5. Top 5 Most Ordered Pizza Types
 Find the top 5 pizza types based on quantity sold.
 6. Total Quantity by Pizza Category
