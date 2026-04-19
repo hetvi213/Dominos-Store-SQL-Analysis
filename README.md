@@ -26,8 +26,7 @@ This project demonstrates SQL techniques used by analysts to explore, clean, and
 
 <h3> Analysis & Queries </h3>
 
-1. **Orders Volume Analysis:**
-  - Total unique orders, orders by month, day-of-week analysis, repeat customers, average orders per customer, cumulative order trend.
+1. **Orders Volume Analysis:** Total unique orders, orders by month, day-of-week analysis, repeat customers, average orders per customer, cumulative order trend.
 
 2. **Total Revenue from Pizza Sales:** Calculate total revenue from all pizza sales.
 
@@ -47,26 +46,16 @@ Analyze category-wise sales and percentage share.
 Measure daily pizza demand consistency.
 10. **Top 3 Pizzas by Revenue:**
 Identify pizzas generating the highest revenue.
-11. Revenue Contribution per Pizza
-Percentage contribution of each pizza to total revenue.
-12. Cumulative Revenue Over Time
-Monthly cumulative revenue trend since launch.
-13. Top 3 Pizzas by Category (Revenue-Based)
-Top 3 pizzas by revenue in each category.
-14. Top 10 Customers by Spending
-Identify the highest-spending customers.
-15. Orders by Weekday
-Determine busiest days of the week for orders.
-16. Average Order Size
-Calculate average number of pizzas per order.
-17. Seasonal Trends
-Analyze sales patterns by month and holidays.
-18. Revenue by Pizza Size
-Revenue contribution of each pizza size (S, M, L, XL, XXL).
-19. Customer Segmentation
-Classify customers as High Value or Regular based on spend.
-20. Repeat Customer Rate
-Percentage of repeat customers versus one-time buyers.
+11. **Revenue Contribution per Pizza:** Percentage contribution of each pizza to total revenue.
+12. **Cumulative Revenue Over Time:** Monthly cumulative revenue trend since launch.
+13. **Top 3 Pizzas by Category (Revenue-Based):** Top 3 pizzas by revenue in each category.
+14. **Top 10 Customers by Spending:** Identify the highest-spending customers.
+15. **Orders by Weekday:** Determine busiest days of the week for orders.
+16. **Average Order Size:** Calculate average number of pizzas per order.
+17. **Seasonal Trends:** Analyze sales patterns by month and holidays.
+18. **Revenue by Pizza Size:** Revenue contribution of each pizza size (S, M, L, XL, XXL).
+19. **Customer Segmentation:** Classify customers as High Value or Regular based on spend.
+20. **Repeat Customer Rate:** Percentage of repeat customers versus one-time buyers.
 
 <h2> Key Findings </h2>
 
